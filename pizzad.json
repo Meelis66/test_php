@@ -1,0 +1,49 @@
+{ "Pizzad": [
+  {
+     "Nimi": "Holy Cow",
+     "Koostis":"Holy Cow kaste, juust, pepperoni, hakkliha, kimchi, mais, jalopeno, rukola.",
+     "Hind": 7.45,
+     "Teravus": 3
+  },
+  {
+    "Nimi": "Chipotle",
+    "Koostis": "Kaste, juust, hakkliha, suitsukana, marineeritud punane sibul, Chipotle kaste, marineeritud kurk, röstitud sibul, rukola.",
+    "Hind": 8.90,
+    "Teravus": 2
+  },
+  {
+    "Nimi": "Bollywood",
+     "Koostis": "Karri-mango kaste, juust, tshillisädemed, suitsukana, ananass, mais. rukola.",
+     "Hind": 6.05,
+     "Teravus": 2
+  },
+  {
+    "Nimi": "Rapla",
+    "Koostis": "Mango-jalopeno kaste, salaami, peekon, kebab, mango, sibul, küüslauk, sinihallitusjuust",
+    "Hind": 6.15,
+    "Teravus": 1
+  },
+  {
+    "Nimi": "Mafioso",
+    "Koostis": "Sink, suitsukana, salaami, suitsujuust, oliivid, paprika, sinihallitusjuust",
+    "Hind": 8.50,
+    "Teravus": 3
+  },
+  {
+    "Nimi": "Contrapollo",
+    "Koostis": "Suitsukana, sink, ananass, küüslauk, paprika",
+    "Hind": 10.00,
+    "Teravus": 2
+  },
+  {
+    "Nimi": "Rocca al Mare",
+    "Koostis": "Kebab, salaami, tomat, basiilik, mozzarella, päikesekuivatatud tomat",
+    "Hind": 6.80,
+    "Teravus": 3
+  },{
+    "Nimi": "Pepperoni",
+    "Koostis": "Kaste, juust, pepperoni, mozzarella juust, mustad oliivid, basiilik",
+    "Hind": 6.90,
+    "Teravus": 1
+  }  
+]}
